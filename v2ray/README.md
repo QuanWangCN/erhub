@@ -1,7 +1,7 @@
 # 科学上网v2ray设置
 ## 科学上网v2ray设置
 ### CF域名服务
-在CF⽹站(https://www.cloudflare.com/)添加狗爹上买的域名，CF会提供DNS/HTTP服务器地址。 在狗爹配置中添加CF提供的DNS服务器地址。 CF⽹站Crypto标签开⼀下SSL（full选项），DNS标签中暂时关闭服务待服务器端安装v2ray成功后再打开
+在CF⽹站( https://www.cloudflare.com/ )添加狗爹上买的域名，CF会提供DNS/HTTP服务器地址。 在狗爹配置中添加CF提供的DNS服务器地址。 CF⽹站Crypto标签开⼀下SSL（full选项），DNS标签中暂时关闭服务待服务器端安装v2ray成功后再打开
 
 ### v2ray服务器端设置
 Mac终端，输⼊ssh root@IP地址 -p ssh端⼝；Win⽤Xshell连接服务器。以下是安
